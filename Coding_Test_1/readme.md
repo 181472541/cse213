@@ -8,7 +8,7 @@ Marks: 35  Duration: 3 Hour
 
 ## [1. Academic Honesty.](../Coding_Test_1/1.c)
 
-## [2. Write a C program that declare an integer array length of one hundred (100) (do not initialize the array). Scan N (take input N from user) values from user into an array until user input is 0 (Zero). Print entire array each element separated by comma. Check Overflow, Use Function & Use Pointer.](../Coding_Test_1/2.c)
+## [2. Write a C program that declare an integer array length of one hundred (100) (do not initialize the array). Scan N (take input N from user) values from user into an array until user input is 0 (Zero). Print entire array each element separated by comma. Check Overflow, Use Function & Pointer.](../Coding_Test_1/2.c)
 
 ## [3. Find Second Minimum from the Array.](../Coding_Test_1/3.c)
 
